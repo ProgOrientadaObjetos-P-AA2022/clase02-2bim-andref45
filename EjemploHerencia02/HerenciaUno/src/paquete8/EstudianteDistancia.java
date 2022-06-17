@@ -15,10 +15,10 @@ public class EstudianteDistancia extends Estudiante{
         costoAsignatura = costoAsg;
     }
     
-    @Override
+    /*@Override
     public void establecerNombresEstudiante(String nom){
-        nombresEstudiante = nom.toUpperCase(); // Juan.toUpperCase() >> JUAN 
-    }
+    nombresEstudiante = nom.toUpperCase(); // Juan.toUpperCase() >> JUAN
+    }*/
     
     // 2.  Método establecerNumeroAsginaturas(numero: Real)
     public void establecerNumeroAsginaturas(int numero){
